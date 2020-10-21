@@ -17,5 +17,6 @@ function convertCode(code) {
     }
   }
   console.log(arr.join(";"));
+  console.log("testing ")
 }
 convertCode(string);
